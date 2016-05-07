@@ -9,6 +9,7 @@ public class MenuItem
     {
         MENU,
         ABOUT,
+        LEVEL_EDITOR,
         DEMO,
         QUIT,
         LEVEL,

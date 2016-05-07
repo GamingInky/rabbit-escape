@@ -34,6 +34,7 @@ public class MenuDefinition
                 true
             ),
             item( "About", Type.ABOUT, true ),
+            item( "Level Editor", Type.LEVEL_EDITOR, true ),
             maybeItem(
                 includeLoadLevel,
                 "Custom Levels",

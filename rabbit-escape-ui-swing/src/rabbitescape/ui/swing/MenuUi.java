@@ -126,6 +126,10 @@ public class MenuUi
                 {
                     return;
                 }
+                case LEVEL_EDITOR:
+                {
+                    return;
+                }
                 default:
                 {
                     throw new UnknownMenuItemType( item );
